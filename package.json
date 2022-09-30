@@ -1,0 +1,15 @@
+{
+  "name": "faisalaffan-theme-extension-pack",
+  "displayName": "faisalaffan-theme-extension-pack",
+  "description": "Faisal Affan Extension Pack For (Theme, Utils, Styling, Productivity)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "adpyke.codesnap"
+  ]
+}
