@@ -3,13 +3,45 @@
   "displayName": "faisalaffan-theme-extension-pack",
   "description": "Faisal Affan Extension Pack For (Theme, Utils, Styling, Productivity)",
   "version": "0.0.1",
+  "publisher": "faisalaffan",
   "engines": {
     "vscode": "^1.71.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faisalaffan/faisalaffan-theme-extension-pack"
+  },
   "extensionPack": [
-    "adpyke.codesnap"
+    "adpyke.codesnap",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "naumovs.color-highlight",
+    "miguelsolorio.fluent-icons",
+    "usernamehw.errorlens",
+    "sleistner.vscode-fileutils",
+    "lehni.vscode-fix-checksums",
+    "github.copilot",
+    "eamodio.gitlens",
+    "ritwickdey.liveserver",
+    "file-icons.file-icons",
+    "wayou.vscode-icons-mac",
+    "helgardrichard.helium-icon-theme",
+    "janne252.fontawesome-autocomplete",
+    "lukas-tr.materialdesignicons-intellisense",
+    "wenfangdu.snippet-generator",
+    "tyriar.sort-lines",
+    "jock.svg",
+    "simonsiefke.svg-preview",
+    "robbowen.synthwave-vscode",
+    "wayou.vscode-todo-highlight",
+    "gruntfuggly.todo-tree",
+    "deerawan.vscode-faker",
+    "tomoki1207.pdf"
   ]
 }
+
